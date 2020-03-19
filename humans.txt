@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dave Schwartz	d.m.schwartz708@gmail.com	@dmschwartz708
 
 # THANKS
 
