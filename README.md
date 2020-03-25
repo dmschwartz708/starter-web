@@ -2,7 +2,6 @@
 
 This is a simple website project for 
 Showing how to use Git and Github to together.
-Updating an emergency fix
 
 ## Introduction
 
